@@ -5,7 +5,7 @@
  * @param {Object}   fieldTypes An objet of fieldName/someFunction
  * @return {Object}             An objet which represent the literal object format of the FormData
  */
-function FormDataToObject(formData, fieldTypes) {
+export default function FormDataToObject(formData, fieldTypes) {
 
 	/**
 	 * Validate object content for a form fields and its value types
