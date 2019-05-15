@@ -1,5 +1,5 @@
 {
     "name": "formdata-to-object",
     "version": "0.0.0",
-    "private": true
+    "description": "A JS function which converts a FormData to a literal object"
 }
